@@ -1,3 +1,8 @@
+# /data ignores
+data/mp3/*
+data/images
+data/wav
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
