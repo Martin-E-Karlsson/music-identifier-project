@@ -4,8 +4,8 @@ import math
 import librosa
 
 
-DATASET_PATH = "../data/Gtzan_mixed/"
-JSON_PATH = "../data_json/data_Gtzan_mixed_genres.json"
+DATASET_PATH = "../data/blues/" # Denna byts ut för varje genre
+JSON_PATH = "../data_json/data_blues.json" # Denna byts ut för varje genre
 
 
 

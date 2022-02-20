@@ -14,6 +14,6 @@ def prepare_data(file_map, g):
     return
 
 for g in genres:
-    run = prepare_data(file_map='metal',g=g)
+    run = prepare_data(file_map='metal',g=g) # file_map byts ut beroende på vilken genre du vill köra.
 
 
