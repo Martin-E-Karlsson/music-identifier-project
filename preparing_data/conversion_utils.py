@@ -1,6 +1,6 @@
 """Running this script requires having a functioning FFmpeg entry in Path in Environment Variables."""
 import os
-from data.config import *
+from preparing_data.config import *
 
 
 def remove_spaces(directory, filename):
