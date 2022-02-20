@@ -133,5 +133,30 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-data/*
-data_json/*
+data/blues
+data/country
+data/data_all_years
+data/disco
+data/Gtzan
+data/Gtzan_mixed
+data/Gtzan_new
+data/hiphop
+data/jazz
+data/metal
+data/pop
+data/reggae
+data/rock
+
+
+
+data_json/data_blues.json
+
+
+
+
+
+
+
+
+
+
